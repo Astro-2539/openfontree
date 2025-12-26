@@ -180,5 +180,16 @@
     /// 汇文明朝体 (256)
     [256, 914],
     [914, 437],
-    [914, 467]
+    [914, 467],
+
+
+    // Ctrl Runr→NotoUnicode→遍黑体
+    [808, 809],
+    [809, 150],
+
+    // Noto Traditional Nushu→NotoUnicode
+    ["gf", 809],
+
+    // Noto Traditional Nushu→Monu Titl
+    ["gf", 635]
 ]
