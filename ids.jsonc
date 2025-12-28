@@ -1008,30 +1008,34 @@
     },
     {
         "id": 301,
-        "name": "源雲明體 (源云明体) TC",
+        "name": "源云明体",
         "alias": [
-            "GenWanMin2 TC"
+            "源雲明體",
+            "GenWanMin2"
         ]
     },
     {
         "id": 302,
-        "name": "源樣黑體 (源样黑体) TC",
+        "name": "源样黑体",
         "alias": [
-            "GenKiGothic2 TC"
+            "源樣黑體",
+            "GenKiGothic2"
         ]
     },
     {
         "id": 303,
-        "name": "源泉圓體 (源泉圆体) TC",
+        "name": "源泉圆体",
         "alias": [
-            "GenSenRounded2 TC"
+            "源泉圓體",
+            "GenSenRounded2"
         ]
     },
     {
         "id": 304,
-        "name": "源石黑體 (源石黑体) TC",
+        "name": "源石黑体",
         "alias": [
-            "GenSekiGothic2 TC"
+            "源石黑體",
+            "GenSekiGothic2"
         ]
     },
     {
@@ -4264,6 +4268,31 @@
     {
         "id": 922,
         "name": "Ctrl Poop",
+        "alias": []
+    },
+    {
+        "id": 923,
+        "name": "Cooper*",
+        "alias": []
+    },
+    {
+        "id": 924,
+        "name": "源样明体",
+        "alias": [
+            "源樣明體",
+            "GenKiMin2"
+        ]
+    },
+    {
+        "id": 925,
+        "name": "方舟像素字体",
+        "alias": [
+            "Ark Pixel Font"
+        ]
+    },
+    {
+        "id": 926,
+        "name": "Fraunces",
         "alias": []
     },
     {
