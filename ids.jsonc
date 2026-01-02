@@ -275,7 +275,8 @@
         "id": 14,
         "name": "霞鹜致宋",
         "alias": [
-            "LXGW ZhiSong"
+            "LXGW ZhiSong",
+            "LXGW 緻明朝"
         ]
     },
     {
@@ -674,8 +675,9 @@
     },
     {
         "id": 232,
-        "name": "Y式筆書 (Y式笔书)",
+        "name": "Y 式笔书",
         "alias": [
+            "Y 式筆書",
             "YshiPen-Shuti"
         ]
     },
@@ -4268,7 +4270,9 @@
     {
         "id": 922,
         "name": "Ctrl Poop",
-        "alias": []
+        "alias": [
+            "噗叽体"
+        ]
     },
     {
         "id": 923,
@@ -4296,8 +4300,73 @@
         "alias": []
     },
     {
+        "id": 927,
+        "name": "SN Pro",
+        "alias": []
+    },
+    {
+        "id": 928,
+        "name": "源柔黑体",
+        "alias": [
+            "源柔ゴシック",
+            "Gen Jyuu Gothic"
+        ]
+    },
+    {
+        "id": 929,
+        "name": "Z 工坊像素圆体 16px",
+        "alias": [
+            "Z Labs RoundPix 16px"
+        ]
+    },
+    {
         "id": 93,
         "name": "お手製Rwiフォント (御手制Rwi)",
+        "alias": []
+    },
+    {
+        "id": 930,
+        "name": "Droid Sans Mono Nerd Font",
+        "alias": []
+    },
+    {
+        "id": 931,
+        "name": "iA Writer Duo",
+        "alias": []
+    },
+    {
+        "id": 932,
+        "name": "iA Writer Mono",
+        "alias": []
+    },
+    {
+        "id": 933,
+        "name": "iA Writer Quattro",
+        "alias": []
+    },
+    {
+        "id": 935,
+        "name": "Cormorant",
+        "alias": []
+    },
+    {
+        "id": 936,
+        "name": "1715 Gothic",
+        "alias": []
+    },
+    {
+        "id": 937,
+        "name": "1715 等宽 GB",
+        "alias": []
+    },
+    {
+        "id": 938,
+        "name": "1715 Mono",
+        "alias": []
+    },
+    {
+        "id": 939,
+        "name": "Doto",
         "alias": []
     },
     {
