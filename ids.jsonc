@@ -4689,6 +4689,26 @@
         ]
     },
     {
+        "id": 981,
+        "name": "DejaVu Sans",
+        "alias": []
+    },
+    {
+        "id": 982,
+        "name": "DejaVu Sans Mono",
+        "alias": []
+    },
+    {
+        "id": 983,
+        "name": "DejaVu Serif",
+        "alias": []
+    },
+    {
+        "id": 984,
+        "name": "DejaVu Math TeX Gyre",
+        "alias": []
+    },
+    {
         "id": 99,
         "name": "はなぞめフォント 花中字体",
         "alias": []
@@ -5093,36 +5113,6 @@
     {
         "id": "de",
         "name": "IrishGrover",
-        "alias": []
-    },
-    {
-        "id": "df",
-        "name": "jsMath-cmbx10",
-        "alias": []
-    },
-    {
-        "id": "dg",
-        "name": "jsMath-cmex10",
-        "alias": []
-    },
-    {
-        "id": "dh",
-        "name": "jsMath-cmmi10",
-        "alias": []
-    },
-    {
-        "id": "di",
-        "name": "jsMath-cmr10",
-        "alias": []
-    },
-    {
-        "id": "dj",
-        "name": "jsMath-cmsy10",
-        "alias": []
-    },
-    {
-        "id": "dk",
-        "name": "jsMath-cmti10",
         "alias": []
     },
     {
